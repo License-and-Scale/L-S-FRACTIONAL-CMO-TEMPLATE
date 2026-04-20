@@ -1,0 +1,9 @@
+# Core skills for the Fractional CMO archetype.
+
+content-research
+google-doc-report
+google-sheets
+slack-respond
+telegram-delegate
+find-skills
+prompt-injection-guard
